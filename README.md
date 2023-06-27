@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # my-probot-app
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) that A Probot app
@@ -31,3 +32,8 @@ For more, check out the [Contributing Guide](CONTRIBUTING.md).
 ## License
 
 [ISC](LICENSE) © 2023 Piyush Upreti - p0u004l
+=======
+# probot-app
+
+new app
+>>>>>>> b9db746092caee15dbf9bb2c67b778a0513e611a
